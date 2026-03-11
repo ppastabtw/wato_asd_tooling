@@ -1,3 +1,4 @@
 logs/
 code
 slurm-*.out
+session_config.sh
